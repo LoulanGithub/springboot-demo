@@ -4,8 +4,8 @@ server:
 #  用来测试@Profile
 spring:
   profiles:
-    default: dev
-    active: test
+    default: test
+    active: dev
 
 
 
